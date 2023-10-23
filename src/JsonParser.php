@@ -1,5 +1,5 @@
 <?php
-namespace App\Custom;
+namespace Gemul;
 
 class JsonParser {
     private $jsonObject;
