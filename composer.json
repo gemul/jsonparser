@@ -11,7 +11,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Gemul\\Jsonparser\\": "src/"
+            "Gemul\\": "src/"
         }
     },
     "authors": [
