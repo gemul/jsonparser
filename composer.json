@@ -1,0 +1,31 @@
+{
+    "name": "gemul/jsonparser",
+    "description": "A PHP Library to easily handle JSON data",
+    "type": "library",
+    "keywords": [
+        "json",
+        "json-parser"
+    ],
+    "require": {
+        "php": "^7.0.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Gemul\\Jsonparser\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gema Ulama Putra",
+            "email": "gemul.putra@gmail.com",
+            "homepage": "https://gemaulamaputra.id"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/gemul/jsonparser/issues",
+        "source": "https://github.com/gemul/jsonparser",
+        "discussions": "https://github.com/gemul/jsonparser/discussions"
+    },
+    "license": "Apache-2.0",
+    "minimum-stability": "dev"
+}
